@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Computer%20Structures&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=45)
 
 ## 컴퓨터구조 프로젝트
+컴퓨터구조 프로젝트는 중앙처리장치(CPU)의 `싱글 사이클`, `파이프라인`, 그리고 `캐시`를 C로 시뮬레이션하는 `세 가지 프로그램`을 개발합니다. 명령어집합구조(ISA)를 처리하는 싱글 사이클, 파이프라인 마이크로아키텍처를 설계하고 CPU의 성능을 개선할 방법을 분석합니다. 또한, 캐시 계층구조를 파악하고 캐시의 효율성을 높일 방법을 분석합니다.
+<br>
 
 ## 🔎 프로필
 - 이름 `컴퓨터구조 프로젝트`
